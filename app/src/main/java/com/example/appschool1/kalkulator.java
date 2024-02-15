@@ -55,10 +55,6 @@ public class kalkulator extends AppCompatActivity {
                         break;
                 }
 
-
-
-
-
             }
         });
     }
