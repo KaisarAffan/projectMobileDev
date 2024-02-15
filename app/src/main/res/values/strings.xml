@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppSchool1</string>
+    <string-array name="dropdown">
+        <item>tambah</item>
+        <item>kurang</item>
+        <item>kali</item>
+        <item>bagi</item>
+    </string-array>
+</resources>
