@@ -6,4 +6,42 @@
         <item>kali</item>
         <item>bagi</item>
     </string-array>
+
+    <string-array name="foodNameRv">
+        <item>bakwandung</item>
+        <item>Bassrenggg</item>
+        <item>bangso bakar</item>
+        <item>sop buntut</item>
+        <item>ayam guling</item>
+        <item>Sapi krauk</item>
+        <item>Ayam cimahi</item>
+        <item>tiren(x)</item>
+        <item>France froizy</item>
+        <item>Telor mata Safii</item>
+        <item>black swan</item>
+        <item>Telor bacem</item>
+        <item>Ikan rebus</item>
+        <item>Sapi bumbu merah</item>
+        <item>Bulusan</item>
+        <item>Laufy</item>
+    </string-array>
+
+    <string-array name="foodPriceRv">
+        <item>1000</item>
+        <item>500</item>
+        <item>1500</item>
+        <item>20000</item>
+        <item>100000</item>
+        <item>23000</item>
+        <item>28000</item>
+        <item>10000</item>
+        <item>11000</item>
+        <item>8000</item>
+        <item>355000</item>
+        <item>5000</item>
+        <item>19000</item>
+        <item>40000</item>
+        <item>30000</item>
+        <item>1200000</item>
+    </string-array>
 </resources>

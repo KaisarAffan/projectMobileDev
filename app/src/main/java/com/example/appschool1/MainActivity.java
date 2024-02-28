@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
             btnMove.setOnClickListener(new View.OnClickListener() {
                 @Override
                 public void onClick(View v) {
-                    Intent intent = new Intent(MainActivity.this,constrain_Login.class);
+                    Intent intent = new Intent(MainActivity.this,recyclerView.class);
                     startActivity(intent);
 
                 }
