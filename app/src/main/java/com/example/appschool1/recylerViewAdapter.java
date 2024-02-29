@@ -19,7 +19,6 @@ public class recylerViewAdapter extends RecyclerView.Adapter<recylerViewAdapter.
 
     Context context;
     List<Item> foods;
-
     public recylerViewAdapter(Context context, List<Item> foods) {
         this.context = context;
         this.foods = foods;

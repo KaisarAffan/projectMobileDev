@@ -42,8 +42,8 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="2dp"
-        android:layout_marginTop="16dp"
-        android:background="#406F7376"
+        android:layout_marginTop="17dp"
+        android:background="#000"
         android:layout_below="@id/food_price"
         android:layout_marginHorizontal="10dp"/>
 
