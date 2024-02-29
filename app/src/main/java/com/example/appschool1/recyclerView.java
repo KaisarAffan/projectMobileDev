@@ -34,9 +34,9 @@ public class recyclerView extends AppCompatActivity {
 
 private void foodsMenu(){
         String[] foodsNameRv = getResources().getStringArray(R.array.foodNameRv);
-        String[] foodsPriceRv = getResources().getStringArray(R.array.foodPriceRv);
+        String[] foodsDescriptionRv = getResources().getStringArray(R.array.foodDescriptionRv);
          for(int i = 0; i < foodsNameRv.length;i++){
-             foods.add(new Item(foodsNameRv[i],foodsPriceRv[i],foodImage[i]));
+             foods.add(new Item(foodsNameRv[i],foodsDescriptionRv[i],foodImage[i]));
          }
 
 }

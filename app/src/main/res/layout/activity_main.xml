@@ -61,7 +61,7 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_marginTop="100dp"
-        android:text="constrain" />
+        android:text="Recyler View Page" />
 
 
 </LinearLayout>

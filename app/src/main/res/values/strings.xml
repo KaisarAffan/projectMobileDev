@@ -8,21 +8,21 @@
     </string-array>
 
     <string-array name="foodNameRv">
-        <item>bakwandung</item>
-        <item>Bassrenggg</item>
-        <item>bangso bakar</item>
-        <item>sop buntut</item>
-        <item>ayam guling</item>
-        <item>Sapi krauk</item>
-        <item>Ayam cimahi</item>
-        <item>tiren(x)</item>
-        <item>France froizy</item>
-        <item>Telor mata Safii</item>
-        <item>black swan</item>
+        <item>Bakwan</item>
+        <item>Basreng</item>
+        <item>Bakso bakar</item>
+        <item>Sop buntut</item>
+        <item>Ayam guling</item>
+        <item>Rambak</item>
+        <item>Ayam cemani</item>
+        <item>Ayam panggang</item>
+        <item>Kentang goreng</item>
+        <item>Telor mata Sapi</item>
+        <item>Bebek bumbu hitam</item>
         <item>Telor bacem</item>
         <item>Ikan rebus</item>
-        <item>Sapi bumbu merah</item>
-        <item>Bulusan</item>
+        <item>Rendang</item>
+        <item>tongseng bulus</item>
         <item>Laufy</item>
     </string-array>
 
@@ -43,5 +43,24 @@
         <item>40000</item>
         <item>30000</item>
         <item>1200000</item>
+    </string-array>
+
+    <string-array name="foodDescriptionRv">
+        <item>Gorengan basic yang terdiri dari tepung dan sayur</item>
+        <item>Bakso ikan yang di goreng kering di campur cabe bubuk</item>
+        <item>Bakso yang di tusuk dan di bakar </item>
+        <item>Sup buntut dibuat dengan ekor sapi.</item>
+        <item>Ayam mentah yang dipanggang dengan bumbu bumbu rahasia</item>
+        <item>Krupuk yang terbuat dai kulit sapi</item>
+        <item>Ayam goreng dari daging ayam cemani</item>
+        <item>Ayam yang dipanggang memakai bumbu asli jepara</item>
+        <item>Kentang yang di potong panjang dan di goreng</item>
+        <item>Telor yang di goreng mata sapi</item>
+        <item>Bebek yang di goreng dengan bumbu hitam</item>
+        <item>Telor rebus yang di bacem</item>
+        <item>Ikan rebusan khas pulau samarinda</item>
+        <item>Masakan asli minang</item>
+        <item>Masakan tongseng dari daging bulus</item>
+        <item>chef terkenal yang memasak sealuruh masakan</item>
     </string-array>
 </resources>
